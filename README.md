@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Manas Kohli</h1>
 
 # 💫 About Me:
-I am a science student at John Abbott College, exhilarated and passionate about diving into the world of coding, machine learning, and developing powerful applications.<br><br><br><br>
+I am a Computer Science student at the University of Toronto, exhilarated and passionate about diving into the world of coding, machine learning, and developing powerful applications.<br><br><br><br>
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning with [TensorFlow](https://www.tensorflow.org/)

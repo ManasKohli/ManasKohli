@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Manas Kohli</h1>
 
 # 💫 About Me:
-I am a Computer Science student at the University of Toronto, passionate about diving into the world of coding, machine learning, and developing powerful applications.<br><br><br><br>
+I am a Computer Science student at the University of Toronto, passionate about diving into the world of coding, machine learning, and developing powerful applications.
+Currently, I'm a Founding Engineer at **Pambii AI**, a cross-border fintech startup focused on revolutionizing remittances <br><br><br><br>
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning with [TensorFlow](https://www.tensorflow.org/)

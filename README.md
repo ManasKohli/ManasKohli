@@ -6,6 +6,7 @@ Currently, I'm a Founding Engineer at **Pambii AI**, a cross-border fintech star
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning with [TensorFlow](https://www.tensorflow.org/)
+- ☁️ Deploying microservices on Google Cloud using GKE
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-kohli) 

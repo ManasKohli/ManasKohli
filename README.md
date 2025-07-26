@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I am a Computer Science student at the University of Toronto, passionate about diving into the world of coding, machine learning, and developing powerful applications.
-Currently, I'm a Co-Founder & Founding Engineer at **Pambii AI**, a cross-border ai fintech startup focused on revolutionizing compliance software & coremittances.
+Currently, I'm a Co-Founder & Founding Engineer at **Pambii AI**, a cross-border ai fintech startup focused on revolutionizing compliance software & remittances.
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning with [TensorFlow](https://www.tensorflow.org/)

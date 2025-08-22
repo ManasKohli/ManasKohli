@@ -2,11 +2,12 @@
 
 # 💫 About Me:
 I am a Computer Science student at the University of Toronto, passionate about diving into the world of coding, machine learning, and developing powerful applications.
-Currently, I'm a Co-Founder & Founding Engineer at **Pambii AI**, a cross-border ai fintech startup focused on revolutionizing compliance software & remittances.
+Currently, I'm a Co-Founder & Founding Engineer at **Pambii AI**, a cross-border ai fintech startup focused on revolutionizing compliance software.
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning with [TensorFlow](https://www.tensorflow.org/)
 - ☁️ Deploying microservices on Google Cloud using GKE
+- 🚀 Building the next big fintech startup [PambiiAI](https://pambii.ai/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-kohli) 

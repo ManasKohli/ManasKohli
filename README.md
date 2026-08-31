@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋 I'm Manas Kohli</h1>
 
 # 💫 About Me:
-I am a Computer Science student at the University of Toronto, passionate about diving into the world of software engineering, quantitative finance, and financial markets. Currently, I'm a Co-Founder & Founding Engineer at **Pambii AI**, a cross-border ai fintech startup focused on revolutionizing compliance software.
+I am a Computer Science student at the University of Toronto, passionate about diving into the world of software engineering, quantitative finance, and financial markets. Currently, I'm a Co-Founder at **Pambii AI**, a cross-border ai fintech startup focused on revolutionizing compliance software. I am also bulding **CREWLEE**, an AI driven platform that offers a RAG system and managerial services for busy restaurants.
 
 
 ## 🚀 What I'm Up To
+- Building the next big restaurant software -> [!CREWLEE](https://www.crewlee.ca/)
 - 🤖 Exploring Machine Learning with [TensorFlow](https://www.tensorflow.org/)
 - ☁️ Deploying microservices on Google Cloud using GKE
 

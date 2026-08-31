@@ -5,7 +5,7 @@ I am a Computer Science student at the University of Toronto, passionate about d
 
 
 ## 🚀 What I'm Up To
-- Building the next big restaurant software -> [!CREWLEE](https://www.crewlee.ca/)
+- Building the next big restaurant software -> [CREWLEE](https://www.crewlee.ca/)
 - 🤖 Exploring Machine Learning with [TensorFlow](https://www.tensorflow.org/)
 - ☁️ Deploying microservices on Google Cloud using GKE
 
